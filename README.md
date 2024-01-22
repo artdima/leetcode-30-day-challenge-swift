@@ -9,6 +9,6 @@
 
 ## Challenge
 | Day | Diffculty | Problem | Solution |
-|:--:| :--: | :-- | -- |
-| 1 |📗|[Single Number](https://leetcode.com/) | [Solution](https://github.com/)|
+|:--:| :--: | -- |
+| 1 |📗| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/LeetCodeChallenge/twoSum.swift)|
 
