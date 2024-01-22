@@ -10,5 +10,5 @@
 ## Challenge
 | Day | Diffculty | Solution |
 |:--:| :--: | -- |
-| 1 |📗| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/LeetCodeChallenge/twoSum.swift)|
+| 1 |📗| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/twoSum.swift)|
 
