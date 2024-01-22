@@ -8,7 +8,7 @@
 | Icon | 📗 | 📙 | 📕 |
 
 ## Challenge
-| Day | Diffculty | Problem | Solution |
+| Day | Diffculty | Solution |
 |:--:| :--: | -- |
 | 1 |📗| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/LeetCodeChallenge/twoSum.swift)|
 
