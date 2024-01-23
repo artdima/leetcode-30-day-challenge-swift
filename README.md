@@ -12,4 +12,7 @@
 |:--:| :--: | -- |
 | 1 |📗| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/twoSum.swift)|
 | 2 |📙| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/romanToInt.swift)|
+| 3 |📗| [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/longestCommonPrefix.swift)|
+
+
 
