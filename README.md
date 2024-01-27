@@ -14,6 +14,7 @@
 | 2 |📙| Roman to Integer | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/romanToInt.swift)|
 | 3 |📗| Longest Common Prefix | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/longestCommonPrefix.swift)|
 | 4 |📗| Valid Parentheses | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/validParentheses.swift)|
+| 5 |📗| Remove Duplicates from Sorted Array | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/removeDuplicates.swift)|
 
 
 
