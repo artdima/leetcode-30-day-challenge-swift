@@ -17,6 +17,10 @@
 | 5 |📗| Remove Duplicates from Sorted Array | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/removeDuplicates.swift)|
 | 6 |📗| Remove Element | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/removeElement.swift)|
 | 7 |📗| Search Insert Position | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/searchInsert.swift)|
+| 8 |📗| Length of Last Word | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/lengthOfLastWord.swift)|
+
+
+
 
 
 
