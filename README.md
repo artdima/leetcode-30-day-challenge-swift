@@ -20,6 +20,7 @@
 | 8 |📗| Length of Last Word | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/lengthOfLastWord.swift)|
 | 9 |📙| Add Binary | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/addBinary.swift)|
 | 10 |📗| Pluse One | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/plusOne.swift)|
+| 11 |📙| Задача из Яндекса | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/findSinfle.swift)|
 
 
 
