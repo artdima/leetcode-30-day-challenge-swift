@@ -21,6 +21,7 @@
 | 9 |📙| Add Binary | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/addBinary.swift)|
 | 10 |📗| Pluse One | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/plusOne.swift)|
 | 11 |📙| Задача из Яндекса | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/findSinfle.swift)|
+| 12 |📙| Задача из Авито | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/solve.swift)|
 
 
 
