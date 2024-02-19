@@ -24,6 +24,7 @@
 | 12 |📙| Задача из Авито | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/solve.swift)|
 | 13 |📗| Contains Duplicate | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/containsDuplicate.swift) |
 | 14 |📗| Pascal's Triangle | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/pascalTriangle.swift) |
+| 15 |📗| Missing Number | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/missingNumber.swift) |
 
 
 
