@@ -26,6 +26,7 @@
 | 14 |📗| Pascal's Triangle | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/pascalTriangle.swift) |
 | 15 |📗| Missing Number | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/missingNumber.swift) |
 | 16 |📗| Move Zeroes | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/moveZeroes.swift) |
+| 17 |📗| Intersection of Two Arrays | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/intersection.swift) |
 
 
 
