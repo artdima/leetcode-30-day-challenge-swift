@@ -28,6 +28,7 @@
 | 16 |📗| Move Zeroes | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/moveZeroes.swift) |
 | 17 |📗| Intersection of Two Arrays | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/intersection.swift) |
 | 18 |📗| Third Maximum Number | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/thirdMax.swift) |
+| 19 |📗| Binary Search | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/searchBinary.swift) |
 
 
 
