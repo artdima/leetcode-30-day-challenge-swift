@@ -32,6 +32,9 @@
 | 20 |📗| Single Number | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/singleNumber.swift) |
 | 21 |📗| Majority Element | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/majorityElement.swift) |
 | 22 |📗| Best Time to Buy and Sell Stock | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/maxProfit.swift) |
+| 23 ||  |  |
+| 24 ||  |  |
+| 25 ||  |  |
 
 
 
