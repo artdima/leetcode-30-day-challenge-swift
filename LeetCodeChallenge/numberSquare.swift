@@ -27,8 +27,8 @@ func double(_ arr: [Int]) -> [Int] {
     var i: Int = arr.count - 1
     
     while i >= 0 {
-        var left = arr[lhs] < 0 ? arr[lhs] * -1 : arr[lhs]
-        var right = arr[rhs] < 0 ? arr[rhs] * -1 : arr[rhs]
+        var left = abs(arr[lhs])
+        var right = abs(arr[rhs])
         
         if left > right {
             result[i] = left * left
