@@ -34,7 +34,7 @@
 | 22 |📗| Best Time to Buy and Sell Stock | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/maxProfit.swift) |
 | 23 |📗| Задача из Яндекса(квадрат числа) | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/numberSquare.swift) |
 | 24 |📗| Merge Two Sorted Lists | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/mergeTwoLists.swift) |
-| 25 |📗|  |  |
+| 25 |📗| Remove Duplicates from Sorted List | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/deleteDuplicates.swift) |
 
 
 
