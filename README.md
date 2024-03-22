@@ -38,6 +38,7 @@
 | 26 |📗| 141. Linked List Cycle | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/hasCycle.swift) |
 | 27 |📗| 28. Find the Index of the First Occurrence in a String | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/strStr.swift) |
 | 28 |📗| 69. Sqrt(x) | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/mySqrt.swift) |
+| 29 |📗| 125. Valid Palindrome | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/isPalindrome.swift) |
 
 
 
