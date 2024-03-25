@@ -41,6 +41,7 @@
 | 29 |📗| 125. Valid Palindrome | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/isPalindrome.swift) |
 | 30 |📗| 144. Binary Tree Preorder Traversal | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/preorderTraversal.swift) |
 | 31 |📗| 145. Binary Tree Postorder Traversal | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/postorderTraversal.swift) |
+| 32 |📗| 160. Intersection of Two Linked Lists | [Solution](https://github.com/artdima/leetcode-30-day-challenge-swift/blob/main/LeetCodeChallenge/getIntersectionNode.swift) |
 
 
 
